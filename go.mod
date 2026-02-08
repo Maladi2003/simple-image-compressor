@@ -1,3 +1,3 @@
 module simple-image-compressor
 
-go 1.20
+go 1.18
